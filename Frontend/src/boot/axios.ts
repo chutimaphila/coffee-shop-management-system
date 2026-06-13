@@ -15,7 +15,8 @@ declare module 'vue' {
 // good idea to move this instance creation inside of the
 // "export default () => {}" function below (which runs individually
 // for each client)
-const api = axios.create({ baseURL: 'http://localhost:3000' })
+///const api = axios.create({ baseURL: 'http://localhost:3000' })
+const api = axios.create({ baseURL: 'https://coffee-shop-management-system-5a1h.onrender.com' })
 function sleep(ms: number) {
   return new Promise((resolve) => setTimeout(resolve, ms))
 }

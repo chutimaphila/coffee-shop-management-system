@@ -6,6 +6,8 @@ A web-based Coffee Shop Management System developed as an academic project for m
 
 This project was developed as part of a university software development course. The system aims to improve operational efficiency by centralizing business processes into a single platform.
 
+---
+
 ## Demo
 
 Frontend:
@@ -13,6 +15,8 @@ https://coffee-shop-management-system-ten.vercel.app
 
 Backend API:
 https://coffee-shop-management-system-5a1h.onrender.com
+
+---
 
 ## My Role
 

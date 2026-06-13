@@ -16,7 +16,7 @@ async function bootstrap() {
   });
 
   app.enableCors({
-    origin: ['http://localhost:9000', 'http://localhost:9001'], // ระบุ origin ของ Frontend
+    origin: ['http://localhost:9000', 'http://localhost:9001','https://coffee-shop-management-system-ten.vercel.app/'], // ระบุ origin ของ Frontend
     methods: ['GET', 'POST', 'PATCH', 'DELETE'], // อนุญาตเฉพาะ method ที่ต้องการ
     allowedHeaders: ['Content-Type', 'Authorization'], // อนุญาต headers ที่ต้องการ
   });

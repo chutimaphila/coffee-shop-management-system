@@ -161,6 +161,8 @@ Coffee-Shop-Management-System/
 │   ├── database.sqlite   
 │   └── ...
 │
+├──Screenshots
+│
 ├── README.md
 └── README_TH.md
 ```

@@ -113,35 +113,35 @@ https://coffee-shop-management-system-5a1h.onrender.com
 
 ### Login Page
 
-<img width="1919" height="907" alt="Login_Page" src="https://github.com/user-attachments/assets/cab0bc0a-d746-4091-aae4-d661e0ee36a2" />
+<img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/46434455-5922-4420-bacf-31c9666c4e7f" />
 
 ### Dashboard
 
-<img width="1600" height="765" alt="Dash" src="https://github.com/user-attachments/assets/9925c432-72e7-4221-8119-31031456780b" />
+<img width="1600" height="765" alt="image" src="https://github.com/user-attachments/assets/765ddd2a-920c-4bba-85b6-82228beb4436" />
 
 ### Point of Sale
 
-<img width="1600" height="763" alt="POS (2)" src="https://github.com/user-attachments/assets/e30b90e5-1c6d-44e7-bb57-9ab87ac5c874" />
+<img width="1600" height="763" alt="image" src="https://github.com/user-attachments/assets/554f346d-47e6-4d92-9446-a79e34afeabd" />
 
 ### Product Management
 
-<img width="1600" height="763" alt="POS (2)" src="https://github.com/user-attachments/assets/b590b6e5-637d-4f4d-a77b-566831942dea" />
+<img width="1600" height="763" alt="image" src="https://github.com/user-attachments/assets/0f6fc583-f87f-4d27-97ea-f6b2a7032000" />
 
 ### User Management
 
-<img width="1600" height="763" alt="User" src="https://github.com/user-attachments/assets/887660e6-1e4c-4c33-b465-d15931c54869" />
+<img width="1600" height="763" alt="image" src="https://github.com/user-attachments/assets/c0a0ab3d-cfa3-4039-b0a0-5a0f00f4eb64" />
 
 ### Employee Management
 
-<img width="1600" height="764" alt="Em" src="https://github.com/user-attachments/assets/50558955-7234-4ed4-9bfc-12df4078f273" />
+<img width="1600" height="764" alt="image" src="https://github.com/user-attachments/assets/b17bed12-063a-4f3a-aeab-e78b909b546c" />
 
 ### Attendance Management
 
-<img width="1600" height="763" alt="Check" src="https://github.com/user-attachments/assets/1909122b-305e-45cf-8674-ef8ed929a133" />
+<img width="1600" height="763" alt="image" src="https://github.com/user-attachments/assets/b7445678-5252-43b3-ad08-81af5558f521" />
 
 ### Sales Management
 
-<img width="1600" height="760" alt="SalesM" src="https://github.com/user-attachments/assets/8b34b544-0871-45a1-84c7-8d784df9013c" />
+<img width="1600" height="760" alt="image" src="https://github.com/user-attachments/assets/a4481971-413a-4e7f-986e-4caa46ef07a0" />
 
 ---
 

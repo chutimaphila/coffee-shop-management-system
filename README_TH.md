@@ -114,35 +114,35 @@ https://coffee-shop-management-system-5a1h.onrender.com
 
 ### หน้าเข้าสู่ระบบ
 
-<img width="1919" height="907" alt="Login_Page" src="https://github.com/user-attachments/assets/cab0bc0a-d746-4091-aae4-d661e0ee36a2" />
+<img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/94a990ae-e604-42be-a4fa-4648b9a9a9f9" />
 
 ### หน้า Dashboard
 
-<img width="1600" height="765" alt="Dash" src="https://github.com/user-attachments/assets/9925c432-72e7-4221-8119-31031456780b" />
+<img width="1600" height="765" alt="image" src="https://github.com/user-attachments/assets/630621c0-1048-4b8c-bb61-17b7c0f7faa9" />
 
 ### หน้าการขาย
 
-<img width="1600" height="763" alt="POS (2)" src="https://github.com/user-attachments/assets/e30b90e5-1c6d-44e7-bb57-9ab87ac5c874" />
+<img width="1600" height="763" alt="image" src="https://github.com/user-attachments/assets/fb666b23-bde5-48e0-8908-41097e88fdc7" />
 
 ### หน้าจัดการสินค้า
 
-<img width="1600" height="763" alt="POS (2)" src="https://github.com/user-attachments/assets/b590b6e5-637d-4f4d-a77b-566831942dea" />
+<img width="1600" height="763" alt="image" src="https://github.com/user-attachments/assets/9ccf920c-f833-468f-ba5f-b11639388635" />
 
 ### หน้าจัดการผู้ใช้งาน
 
-<img width="1600" height="763" alt="User" src="https://github.com/user-attachments/assets/887660e6-1e4c-4c33-b465-d15931c54869" />
+<img width="1600" height="763" alt="image" src="https://github.com/user-attachments/assets/7ba2880a-af62-4f2c-a71c-d2c33360b663" />
 
 ### หน้าจัดการพนักงาน
 
-<img width="1600" height="764" alt="Em" src="https://github.com/user-attachments/assets/50558955-7234-4ed4-9bfc-12df4078f273" />
+<img width="1600" height="764" alt="image" src="https://github.com/user-attachments/assets/04549114-f4a0-4e91-9063-50246c0f6f46" />
 
 ### หน้าบันทึกเวลาเข้า-ออกงาน
 
-<img width="1600" height="763" alt="Check" src="https://github.com/user-attachments/assets/1909122b-305e-45cf-8674-ef8ed929a133" />
+<img width="1600" height="763" alt="image" src="https://github.com/user-attachments/assets/0df49514-a918-4eea-a980-182f85840fcc" />
 
 ### หน้าจัดการการขาย
 
-<img width="1600" height="760" alt="SalesM" src="https://github.com/user-attachments/assets/8b34b544-0871-45a1-84c7-8d784df9013c" />
+<img width="1600" height="760" alt="image" src="https://github.com/user-attachments/assets/21ab0d75-cc7d-42a1-9f23-dada931ee155" />
 
 ---
 
